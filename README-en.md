@@ -2,30 +2,30 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolemoscoutinho/)](https://www.linkedin.com/in/brunolemoscoutinho/) [![Gmail Badge](https://img.shields.io/badge/-brunolemos.ssa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolemos.ssa@gmail.com)](mailto:brunolemos.ssa@gmail.com)
 
 
-:wave: Bem-vindo ao meu perfil! :wave:
+:wave: Welcome to my profile! :wave:
 
-__Meu nome é Bruno Lemos Coutinho e sou um Desenvolvedor Web__
+__My name is Bruno Lemos Coutinho I am a Web Developer__
 
-Sempre fui interessado por progamação desde criança, e agora estou com foco total nesta área. Adoro Desenvolvimento de Software e acredito na tecnologia para trazer soluções relevantes, eficientes e impactantes.
+I have always been interested in programming since I was a child, and now I am totally focused on this area. I love Software Development and I believe in technology to bring relevant, efficient and impactful solutions.
 
 #### Sobre:
-* :earth_americas: Moro em Salvador - Bahia
-* :man_technologist: Concluindo o curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com) | Turma 6
+* :earth_americas: I live in Salvador - Bahia - Brazil
+* :man_technologist:  Completing the Full Stack Web Development course at [Trybe](https://www.betrybe.com) | Turma 6
 
-## :computer: Tecnologias que já estudei
+## :computer: Languages and Tools
 
-### Em Front-end, já estudei / tive contato com:
+### Front-end:
 * HTML
 * CSS
 * Javascript
-* ReactJs (incluindo Redux, Context, Hooks)
+* ReactJs (including Redux, Context, Hooks)
 * Jest
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=yellow"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 
-### Em Back-end,  já estudei / tive contato com:
+### Back-end:
 * NodeJs
-* Express (APIs REST)
+* Express (REST APIs)
 * Sequelize
 * MySQL
 * MongoDB
@@ -36,7 +36,7 @@ Sempre fui interessado por progamação desde criança, e agora estou com foco t
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 
-### Outras tecnologias e conhecimentos:
+### Other technologies and tools:
 * Git
 * Shell
 * Linux
@@ -44,17 +44,18 @@ Sempre fui interessado por progamação desde criança, e agora estou com foco t
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-## :satellite: Entre em contato
+
+## :satellite: Contact
 
 Linkedin:  https://www.linkedin.com/in/brunolemoscoutinho/
 
 Email:  brunolemos.ssa@gmail.com
 
-## :books: Meus principais repositórios
-:construction: Atualizações em Breve :construction:
+## :books: Main repositories
+:construction: More content coming soon :construction:
 
 ## :open_file_folder: Portfolio
-:construction: Atualizações em Breve :construction:
+:construction: More content coming soon :construction:
 
 ## :page_facing_up: Curriculum
 [Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
@@ -66,4 +67,4 @@ Email:  brunolemos.ssa@gmail.com
 
 
 ## Curiosidades
-:construction: Atualizações em Breve :construction:
+:construction: More content coming soon :construction:
