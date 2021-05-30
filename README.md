@@ -1,6 +1,8 @@
 # Bruno Lemos Coutinho :man_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolemoscoutinho/)](https://www.linkedin.com/in/brunolemoscoutinho/) [![Gmail Badge](https://img.shields.io/badge/-brunolemos.ssa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolemos.ssa@gmail.com)](mailto:brunolemos.ssa@gmail.com)
 
+:us: [English Language](https://github.com/BrunoLemosCoutinho/brunolemoscoutinho/blob/main/README-en.md) :us:
+<hr>
 
 :wave: Bem-vindo ao meu perfil! :wave:
 
