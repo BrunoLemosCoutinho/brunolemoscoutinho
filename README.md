@@ -6,13 +6,15 @@
 
 :wave: Bem-vindo ao meu perfil! :wave:
 
-__Meu nome é Bruno Lemos Coutinho e sou um Desenvolvedor Web__
+__Meu nome é Bruno Lemos Coutinho e sou um Desenvolvedor Web.__
 
 Sempre fui interessado por progamação desde criança, e agora estou com foco total nesta área. Adoro Desenvolvimento de Software e acredito na tecnologia para trazer soluções relevantes, eficientes e impactantes.
 
 #### Sobre:
-* :earth_americas: Moro em Salvador - Bahia
-* :man_technologist: Concluindo o curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com) | Turma 6
+* :earth_americas: Moro em Salvador - Bahia.
+* :man_technologist: Concluindo o curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com) | Turma 6.
+* :mortar_board: Tecnólogo em Gestão da Tecnologia da Informação.
+* :mortar_board: Graduado em Administração.
 
 ## :computer: Tecnologias que já estudei
 
@@ -68,4 +70,11 @@ Email:  brunolemos.ssa@gmail.com
 
 
 ## Curiosidades
-:construction: Atualizações em Breve :construction:
+:musical_note: Adoro música e <s>faço barulho</s> toco um pouco de  guitarra,  baixo,  bateria e teclado. Gosto de compor (músicas instumentais).
+
+:raised_hand: Sou canhoto, por isso toco guitarra "de cabeça pra baixo" 🙃 (Ex: como Jimi Hendrix).
+
+:video_game: Adoro videogames, principalmente os da era 8 e 16-bits. Atualmente, jogo também League of Legends no modo <s>rinha de bronze</s> ARAM. Na minha opiião, o modo mais divertido.
+
+  
+:soccer: Gosto de esportes, principalmente futebol.
