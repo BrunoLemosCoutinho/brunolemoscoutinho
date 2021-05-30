@@ -4,13 +4,13 @@
 
 :wave: Welcome to my profile! :wave:
 
-__My name is Bruno Lemos Coutinho I am a Web Developer__
+__My name is Bruno Lemos Coutinho I am a Web Developer.__
 
 I have always been interested in programming since I was a child, and now I am totally focused on this area. I love Software Development and I believe in technology to bring relevant, efficient and impactful solutions.
 
 #### Sobre:
-* :earth_americas: I live in Salvador - Bahia - Brazil
-* :man_technologist:  Completing the Full Stack Web Development course at [Trybe](https://www.betrybe.com) | Turma 6
+* :earth_americas: I live in Salvador - Bahia - Brazil.
+* :man_technologist:  Completing the Full Stack Web Development course at [Trybe](https://www.betrybe.com) | Turma 6.
 
 ## :computer: Languages and Tools
 
@@ -66,5 +66,5 @@ Email:  brunolemos.ssa@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemosCoutinho&layout=compact&hide=python)](https://github.com/BrunoLemosCoutinho/github-readme-stats)
 
 
-## Curiosidades
+## Curiosities
 :construction: More content coming soon :construction:
