@@ -74,7 +74,7 @@ Email:  brunolemos.ssa@gmail.com
 
 :raised_hand: Sou canhoto, por isso toco guitarra "de cabeça pra baixo" 🙃 (Ex: como Jimi Hendrix).
 
-:video_game: Adoro videogames, principalmente os da era 8 e 16-bits. Atualmente, jogo também League of Legends no modo <s>rinha de bronze</s> ARAM. Na minha opinião, o modo mais divertido.
+:video_game: Gosto videogames, principalmente os da era 8 e 16-bits. Atualmente, jogo também League of Legends no modo <s>rinha de bronze</s> ARAM. Na minha opinião, o modo mais divertido.
 
   
 :soccer: Gosto de esportes, principalmente futebol.
