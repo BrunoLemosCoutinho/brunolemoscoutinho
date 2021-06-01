@@ -52,10 +52,15 @@ Linkedin:  https://www.linkedin.com/in/brunolemoscoutinho/
 Email:  brunolemos.ssa@gmail.com
 
 ## :books: Main repositories
-:construction: More content coming soon :construction:
+<a href="https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks" target="_blank">Star Wars Datatable Hooks</a>
+
+:construction: More repositories soon :construction:
 
 ## :open_file_folder: Portfolio
-:construction: More content coming soon :construction:
+#### :point_down: You can see apps running here: :point_down:
+* <a href="https://brunolemoscoutinho.github.io/starwars-datatable-hooks/" target="_blank">Star Wars Datatable Hooks</a>
+
+:construction: More projects soon :construction:
 
 ## :page_facing_up: Curriculum
 [Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
