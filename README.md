@@ -57,8 +57,14 @@ Email:  brunolemos.ssa@gmail.com
 ## :books: Meus principais repositórios
 [Star Wars Datatable Hooks](https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks)
 
+:construction: Mais repositórios em Breve :construction:
+
 ## :open_file_folder: Portfolio
-:construction: Atualizações em Breve :construction:
+#### :point_down: Você pode visualizar as aplicações aqui: :point_down:
+
+* [Star Wars Datatable Hooks](https://brunolemoscoutinho.github.io/starwars-datatable-hooks/)
+
+:construction: Mais projetos em Breve :construction:
 
 ## :page_facing_up: Curriculum
 [Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
