@@ -55,7 +55,7 @@ Linkedin:  https://www.linkedin.com/in/brunolemoscoutinho/
 Email:  brunolemos.ssa@gmail.com
 
 ## :books: Meus principais repositórios
-:construction: Atualizações em Breve :construction:
+[Star Wars Datatable Hooks](https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks)
 
 ## :open_file_folder: Portfolio
 :construction: Atualizações em Breve :construction:
