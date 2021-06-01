@@ -1,7 +1,7 @@
 # Bruno Lemos Coutinho :man_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolemoscoutinho/)](https://www.linkedin.com/in/brunolemoscoutinho/) [![Gmail Badge](https://img.shields.io/badge/-brunolemos.ssa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolemos.ssa@gmail.com)](mailto:brunolemos.ssa@gmail.com)
 
-:us: [English Language](https://github.com/BrunoLemosCoutinho/brunolemoscoutinho/blob/main/README-en.md) :us:
+:us: [English profile](https://github.com/BrunoLemosCoutinho/brunolemoscoutinho/blob/main/README-en.md) :us:
 <hr>
 
 :wave: Bem-vindo ao meu perfil! :wave:
@@ -55,14 +55,13 @@ Linkedin:  https://www.linkedin.com/in/brunolemoscoutinho/
 Email:  brunolemos.ssa@gmail.com
 
 ## :books: Meus principais repositórios
-[Star Wars Datatable Hooks](https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks)
+<a href="https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks" target="_blank">Star Wars Datatable Hooks</a>
 
 :construction: Mais repositórios em Breve :construction:
 
 ## :open_file_folder: Portfolio
 #### :point_down: Você pode visualizar as aplicações aqui: :point_down:
-
-* [Star Wars Datatable Hooks](https://brunolemoscoutinho.github.io/starwars-datatable-hooks/)
+* <a href="https://brunolemoscoutinho.github.io/starwars-datatable-hooks/" target="_blank">Star Wars Datatable Hooks</a>
 
 :construction: Mais projetos em Breve :construction:
 
