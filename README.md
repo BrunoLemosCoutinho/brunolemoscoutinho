@@ -71,7 +71,7 @@ Email:  brunolemos.ssa@gmail.com
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLemosCoutinho&count_private=true&show_icons=true&theme=dark)](https://github.com/BrunoLemosCoutinho/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemosCoutinho&layout=compact&hide=python)](https://github.com/BrunoLemosCoutinho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemosCoutinho&layout=compact)](https://github.com/BrunoLemosCoutinho/github-readme-stats)
 
 
 ## Curiosidades
