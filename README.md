@@ -29,11 +29,11 @@ Sempre fui interessado por progamação desde criança, e agora estou com foco t
 
 ### Em Back-end,  já estudei / tive contato com:
 * NodeJs
-* Express (APIs REST)
-* Sequelize
+* ExpressJS (APIs REST)
+* ORM (Sequelize)
 * MySQL
 * MongoDB
-* Heroku
+* Deploy (Heroku)
 * Python
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
