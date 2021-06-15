@@ -1,3 +1,4 @@
+
 # Bruno Lemos Coutinho :man_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolemoscoutinho/)](https://www.linkedin.com/in/brunolemoscoutinho/) [![Gmail Badge](https://img.shields.io/badge/-brunolemos.ssa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolemos.ssa@gmail.com)](mailto:brunolemos.ssa@gmail.com)
 
@@ -8,7 +9,9 @@
 
 __Meu nome é Bruno Lemos Coutinho e sou um Desenvolvedor Web.__
 
-Sempre fui interessado por progamação desde criança, e agora estou com foco total nesta área. Adoro Desenvolvimento de Software e acredito na tecnologia para trazer soluções relevantes, eficientes e impactantes.
+Sempre gostei de programar desde criança, quando passava horas codando em um MSX. Sou formado em Administração, mas atualmente estou em transição de carreira, tendo a oportunidade de concentrar esforços na área de Desenvolvimento de Software para entregar soluções que sejam relevantes, eficazes e que tragam impacto para as pessoas.
+
+Atuo com desenvolvimento tanto em Front-End, como Back-End. Utilizo tecnologias como HTML, CSS, Javascript, React, NodeJS, ExpressJS, MySQL e MongoDB.
 
 #### Sobre:
 * :earth_americas: Moro em Salvador - Bahia.
@@ -48,28 +51,27 @@ Sempre fui interessado por progamação desde criança, e agora estou com foco t
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+## :open_file_folder: Portfólio | Principais Projetos
+
+Projeto | Repositório |
+| --- | :-: |
+| [Star Wars Datatable Hooks](https://brunolemoscoutinho.github.io/starwars-datatable-hooks/) | [Git](https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks) |
+| [Web Chat](https://resenhawebchat.herokuapp.com) | [Git](https://github.com/BrunoLemosCoutinho/webchat) |
+
+:construction: Mais repositórios em Breve :construction:
+
+
+## :page_facing_up: Curriculum
+[Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
+
+
 ## :satellite: Entre em contato
 
 Linkedin:  https://www.linkedin.com/in/brunolemoscoutinho/
 
 Email:  brunolemos.ssa@gmail.com
 
-## :books: Meus principais repositórios
-<a href="https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks" target="_blank">Star Wars Datatable Hooks</a>
-
-<a href="https://github.com/BrunoLemosCoutinho/webchat" target="_blank">Web Chat</a>
-
-:construction: Mais repositórios em Breve :construction:
-
-## :open_file_folder: Portfolio
-#### :point_down: Você pode visualizar as aplicações aqui: :point_down:
-* <a href="https://brunolemoscoutinho.github.io/starwars-datatable-hooks/" target="_blank">Star Wars Datatable Hooks</a>
-* <a href="https://resenhawebchat.herokuapp.com" target="_blank">Web Chat</a>
-
-:construction: Mais projetos em Breve :construction:
-
-## :page_facing_up: Curriculum
-[Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLemosCoutinho&count_private=true&show_icons=true&theme=dark)](https://github.com/BrunoLemosCoutinho/github-readme-stats)
