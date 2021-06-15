@@ -4,7 +4,7 @@
 
 :wave: Welcome to my profile! :wave:
 
-__My name is Bruno Lemos Coutinho I am a Web Developer.__
+__My name is Bruno Lemos Coutinho and I am a Web Developer.__
 
 I have always been interested in programming since I was a child, and now I am totally focused on this area. I love Software Development and I believe in technology to bring relevant, efficient and impactful solutions.
 
@@ -45,25 +45,28 @@ I have always been interested in programming since I was a child, and now I am t
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
+
+## :open_file_folder: Portfolio | Main Projects
+#### :point_down: You can see apps running here: :point_down:
+
+Project | Repository |
+| --- | :-: |
+| [Star Wars Datatable Hooks](https://brunolemoscoutinho.github.io/starwars-datatable-hooks/) | [Git](https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks) |
+| [Web Chat](https://resenhawebchat.herokuapp.com) | [Git](https://github.com/BrunoLemosCoutinho/webchat) |
+
+
+:construction: More projects soon :construction:
+
+## :page_facing_up: Curriculum
+[Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
+
+
 ## :satellite: Contact
 
 Linkedin:  https://www.linkedin.com/in/brunolemoscoutinho/
 
 Email:  brunolemos.ssa@gmail.com
 
-## :books: Main repositories
-<a href="https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks" target="_blank">Star Wars Datatable Hooks</a>
-
-:construction: More repositories soon :construction:
-
-## :open_file_folder: Portfolio
-#### :point_down: You can see apps running here: :point_down:
-* <a href="https://brunolemoscoutinho.github.io/starwars-datatable-hooks/" target="_blank">Star Wars Datatable Hooks</a>
-
-:construction: More projects soon :construction:
-
-## :page_facing_up: Curriculum
-[Curriculum](https://gitconnected.com/brunolemoscoutinho/resume)
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLemosCoutinho&count_private=true&show_icons=true&theme=dark)](https://github.com/BrunoLemosCoutinho/github-readme-stats)
