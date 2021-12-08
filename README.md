@@ -58,7 +58,7 @@ Projeto | Repositório |
 | --- | :-: |
 | [Star Wars Datatable Hooks](https://brunolemoscoutinho.github.io/starwars-datatable-hooks/) | [Git](https://github.com/BrunoLemosCoutinho/starwars-datatable-hooks) |
 | [Web Chat](https://resenhawebchat.herokuapp.com) | [Git](https://github.com/BrunoLemosCoutinho/webchat) |
-
+| [Wallet](https://brunolemoscoutinho.github.io/wallet/) | [Git](https://github.com/BrunoLemosCoutinho/wallet) |
 :construction: Mais repositórios em Breve :construction:
 
 
